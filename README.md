@@ -1,4 +1,4 @@
-Diabolical Road Biking:
+Diabolical Road Biking
 #######################
 
 PROBLEM:
@@ -11,5 +11,5 @@ Find the five most post-apocalyptic pothole-filled 10-block sections of road in 
 Bonus: Identify the worst road based on historical data involving actual number of patched potholes. 
 
 Many cities are publishing datasets online!
-http://data.cityofchicago.org
-https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Pot-Holes-Reported/7as2-ds3y?
+*http://data.cityofchicago.org
+*https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Pot-Holes-Reported/7as2-ds3y
